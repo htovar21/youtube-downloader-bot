@@ -1,0 +1,24 @@
+# Archivos de entorno y configuración local
+.env
+*.env
+
+# Carpeta de descargas temporales
+descargas/
+
+# Archivos pycache y compilados de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Configuración del IDE (por ejemplo VSCode)
+.vscode/
+.idea/
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
